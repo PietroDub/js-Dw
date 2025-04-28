@@ -22,4 +22,4 @@ function range(n1 = 0, n2 = 0) {
     }
 }
 
-console.log(range(3, 10))
+console.log(range(6, 11))
